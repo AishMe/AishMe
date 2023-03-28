@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **aishwarya.menon.15@gmail.com**
 
-- 📄 Know about my experiences [Click here to view my Resume](https://drive.google.com/file/d/183bG8LZU09bYAPJoUzITgdO3e6oAs3eG/view?usp=share_link)
+- 📄 Know about my experiences [Click here to view my Resume](https://drive.google.com/file/d/1ISRy_jRYTYowTYKykwKOck6sgOVocRB1/view?usp=share_link)
 
 - ⚡ Fun fact **I often joke that I'm a professional copy-paster, but really, isn't that just good coding practice?**
 
