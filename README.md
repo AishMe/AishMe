@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aishwarya</h1>
 <h3 align="center">An AI/ML enthusiast and student from India</h3>
-<img align=“right” alt=“Siri” width=“400” src=“https://cutewallpaper.org/26/artifical-intelligence-gif-wallpaper/16-march-comes-in-like-a-lion-2nd-season-anime-wallpaper-pictures.gif”>
+<img align="right" alt="Siri" width="400" src="https://github.com/AishMe/AishMe/blob/main/AI_me.gif?raw=true">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aishme&label=Profile%20views&color=0e75b6&style=flat" alt="aishme" /> </p>
 
